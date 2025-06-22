@@ -139,13 +139,13 @@ section.services .service1 .imgService,
   background-position: 0 -1rem;
 }
 section.services .service1 .imgService {
-  background-image: url(/assets/service_1.jpg);
+  background-image: url(assets/service_1.jpg);
 }
 section.services .service2 .imgService {
-  background-image: url(/assets/service_2.jpg);
+  background-image: url(assets/service_2.jpg);
 }
 section.services .service3 .imgService {
-  background-image: url(/assets/service_3.jpg);
+  background-image: url(assets/service_3.jpg);
 }
 section.services .service1 h4,
 .service2 h4,
@@ -196,13 +196,13 @@ section.testimonials .testimonialsPeoples .imgTestimonial {
   background-size: cover;
 }
 section.testimonials .testimonialsPeoples .testimonial1 .imgTestimonial {
-  background-image: url(/assets/p1.jpg);
+  background-image: url(assets/p1.jpg);
 }
 section.testimonials .testimonialsPeoples .testimonial2 .imgTestimonial {
-  background-image: url(/assets/p2.jpg);
+  background-image: url(assets/p2.jpg);
 }
 section.testimonials .testimonialsPeoples .testimonial3 .imgTestimonial {
-  background-image: url(/assets/p3.jpg);
+  background-image: url(assets/p3.jpg);
 }
 section.testimonials .testimonialsPeoples .nameTestimonial {
   text-align: center;
